@@ -86,7 +86,11 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - [Optimal routes](http://www.sciencedirect.com/science/article/pii/S22125671163004780)
 - [Warehouse location optimization](https://en.wikipedia.org/wiki/Weber_problem)
 
- 
+### Operations
+- Large building management
+- Optical character recognition (receipt/email/letter/document scanning)
+- Measuring energy consumption from aerial or sattelite infrared camera's
+- Estimating and forecasting occupancy rate of parking lots from security footage
 
 ## Use cases by industry
 ### Banking
@@ -95,10 +99,12 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Credit scoring
 - Risk management
 - Stress testing
-
+- Automatic account creation using photo ID
 
 ### Healthcare
+- Assisted diagnosis using medical imaging
 - Efficiency of care delivery
+- Fainting, falling or loss of consciousness detection from security camera's
 - Overconsumption
 - Readmissions
 - Reducing outcome variation
@@ -122,6 +128,7 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 ### Manufacturing
 - [Predictive Asset Maintenance](http://www.genesissolutions.com/asset-management-to-be-a-key-in-internet-of-things-manufacturing-deployments/)
 - [Quality control](http://necsi.edu/affiliates/braha/IEEE-Cleaning_02.pdf)
+- Drone inspections with automated damage or anomaly detection
 
 ### Public Sector
 
@@ -151,6 +158,10 @@ What makes them so _awesome_? All these ideas should be proven to actually gener
 - Plannogram optimization
 - SKU forecasting
 - Waste
+- Stock level checking
+- Product placement in shelves or on websites
+- Image tagging for easy of discovery
+- Visual similarity of items in menues (retarget customers with similar items to those purchased)
 
 ### Telecommunications
 - Asset performance analytics
